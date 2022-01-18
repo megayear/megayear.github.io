@@ -1,4 +1,4 @@
-# The `megayear` research collective
+# Based in Austin, Texas
 
 <p style="text-align:center;"><img src="assets/Myr_logo.png" alt="megayear" width=200/></p>
 
