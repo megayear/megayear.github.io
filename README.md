@@ -1,5 +1,7 @@
 # The `megayear` research collective
 
+<p style="text-align:center;"><img src="assets/Myr_logo.png" alt="megayear" width=200/></p>
+
 Our research collective is based at the University of Texas Department of Astronomy, in the Physics, Math, and Astronomy (PMA) building.  
 
 
