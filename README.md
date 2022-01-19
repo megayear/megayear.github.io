@@ -55,12 +55,7 @@ Modern astrophysics research takes lots of computer skills.  Some of the technol
 10. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 11. Make a free account on [Overleaf](https://www.overleaf.com) if you don't already have one.
 
-Optional, but you'll need them eventually...
-
-12. Make an [ORCID](https://orcid.org) account.
-13. Make an account on [ArXiv](https://arxiv.org/login).
-14. Make an account on [readthedocs](https://readthedocs.org).
-15. Make an account on [PyPI](https://pypi.org).
+Eventually you may need free accounts on [ORCID](https://orcid.org), [ArXiv](https://arxiv.org/login), [readthedocs](https://readthedocs.org), and [PyPI](https://pypi.org).  If you don't already have a password manager, it may be worth setting on up to keep track of all these accounts.
 
 
 
@@ -92,3 +87,6 @@ Here are some useful tutorials:
 - [learn matplotlib](https://www.codecademy.com/learn/data-visualization-python/modules/dspath-matplotlib) on codecademy
 
 Search around the internet and libraries for a learning path that works for you.
+
+### Learn LaTeX
+LaTex is the predominant way to write and format math equations.  You need LaTeX for writing publication-quality science papers.  There are some good tutorials online, including [learn LaTeX ](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) by Overleaf.
