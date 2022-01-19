@@ -54,6 +54,8 @@ Modern astrophysics research takes lots of computer skills.  Some of the technol
 9. Install [direnv](https://direnv.net).
 10. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 11. Make a free account on [Overleaf](https://www.overleaf.com) if you don't already have one.
+12. Install [Tectonic](https://tectonic-typesetting.github.io/)
+
 
 Eventually you may need free accounts on [ORCID](https://orcid.org), [ArXiv](https://arxiv.org/login), [readthedocs](https://readthedocs.org), and [PyPI](https://pypi.org).  If you don't already have a password manager, it may be worth setting on up to keep track of all these accounts.
 
