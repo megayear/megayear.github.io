@@ -54,8 +54,13 @@ Modern astrophysics research takes lots of computer skills.  Some of the technol
 9. Install [direnv](https://direnv.net).
 10. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 11. Make a free account on [Overleaf](https://www.overleaf.com) if you don't already have one.
-12. Make an [ORCID](https://orcid.org), you'll need this for publishing.
-13. Make an account on [ArXiv](https://arxiv.org/login), ditto.
+
+Optional, but you'll need them eventually...
+
+12. Make an [ORCID](https://orcid.org) account.
+13. Make an account on [ArXiv](https://arxiv.org/login).
+14. Make an account on [readthedocs](https://readthedocs.org).
+15. Make an account on [PyPI](https://pypi.org).
 
 
 
@@ -75,3 +80,15 @@ As part of your onboarding you must complete one of the online tutorials for git
 6. O'Reilly online [git training](https://www.katacoda.com/courses/git)
 
 You may want to experiment with a few of these to get a feel for it.
+
+
+### Practice with Python libraries
+The Python libraries you'll need will depend on your project.  In general, everyone should have some practice with the three most important libraries for data analysis with Python: `numpy`, `matplotlib`, and `pandas`.
+
+Here are some useful tutorials:
+- [numpy tutorials](https://numpy.org/learn/)
+- [numpy challenges](https://www.hackerrank.com/domains/python/numpy/difficulty/all/page/1) on Hackerrank
+- [learn pandas](https://www.kaggle.com/learn/pandas) on Kaggle
+- [learn matplotlib](https://www.codecademy.com/learn/data-visualization-python/modules/dspath-matplotlib) on codecademy
+
+Search around the internet and libraries for a learning path that works for you.
